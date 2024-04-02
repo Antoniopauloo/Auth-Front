@@ -16,6 +16,3 @@ The user can create an account and login. If the e-mail and password are correct
 - Axios <br>
 - Context <br>
 - localStorage <br>
-
-## Backend
-The AuthBack is the backend server that is connected to a database and works together with the AuthFront. You can check the AuthBack repo by clicking [here](<https://github.com/Michelle-Laignier/Auth-Back>).
